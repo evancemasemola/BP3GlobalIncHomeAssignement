@@ -1,0 +1,464 @@
+14:02:14.285 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+14:02:14.286 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+14:02:14.286 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+14:02:14.293 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+14:02:14.293 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+14:02:14.294 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+14:03:16.345 [ApplicationImpl pooled thread 154] INFO  c.b.l.BrowserStackRunExtension - testng
+14:03:16.345 [ApplicationImpl pooled thread 154] INFO  com.browserstack.utils.Helpers - null
+14:03:16.348 [ApplicationImpl pooled thread 154] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+14:03:16.348 [ApplicationImpl pooled thread 154] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+14:03:16.348 [ApplicationImpl pooled thread 154] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+14:03:53.703 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+14:03:53.703 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+14:03:53.703 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+14:03:53.709 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+14:03:53.709 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+14:03:53.709 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+14:04:00.471 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+14:04:00.472 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+14:04:00.472 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+14:04:00.476 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+14:04:00.476 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+14:04:00.476 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+14:15:45.538 [ApplicationImpl pooled thread 187] INFO  c.b.l.BrowserStackRunExtension - testng
+14:15:45.538 [ApplicationImpl pooled thread 187] INFO  com.browserstack.utils.Helpers - null
+14:15:45.538 [ApplicationImpl pooled thread 187] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:15:57.639 [ApplicationImpl pooled thread 196] INFO  c.b.l.BrowserStackRunExtension - testng
+14:15:57.639 [ApplicationImpl pooled thread 196] INFO  com.browserstack.utils.Helpers - null
+14:15:57.641 [ApplicationImpl pooled thread 196] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:17:03.462 [ApplicationImpl pooled thread 199] INFO  c.b.l.BrowserStackRunExtension - testng
+14:17:03.462 [ApplicationImpl pooled thread 199] INFO  com.browserstack.utils.Helpers - null
+14:17:03.464 [ApplicationImpl pooled thread 199] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:19:10.961 [ApplicationImpl pooled thread 202] INFO  c.b.l.BrowserStackRunExtension - testng
+14:19:10.961 [ApplicationImpl pooled thread 202] INFO  com.browserstack.utils.Helpers - null
+14:19:10.962 [ApplicationImpl pooled thread 202] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:21:46.036 [ApplicationImpl pooled thread 201] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+14:21:46.037 [ApplicationImpl pooled thread 201] INFO  com.browserstack.utils.Helpers - null
+14:21:46.039 [ApplicationImpl pooled thread 201] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+14:21:46.039 [ApplicationImpl pooled thread 201] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+14:21:46.039 [ApplicationImpl pooled thread 201] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+14:23:50.605 [ApplicationImpl pooled thread 226] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+14:23:50.605 [ApplicationImpl pooled thread 226] INFO  com.browserstack.utils.Helpers - null
+14:23:50.607 [ApplicationImpl pooled thread 226] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:25:26.134 [ApplicationImpl pooled thread 209] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+14:25:26.135 [ApplicationImpl pooled thread 209] INFO  com.browserstack.utils.Helpers - null
+14:25:26.137 [ApplicationImpl pooled thread 209] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:26:01.301 [ApplicationImpl pooled thread 226] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+14:26:01.301 [ApplicationImpl pooled thread 226] INFO  com.browserstack.utils.Helpers - null
+14:26:01.304 [ApplicationImpl pooled thread 226] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:32:10.311 [ApplicationImpl pooled thread 241] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+14:32:10.311 [ApplicationImpl pooled thread 241] INFO  com.browserstack.utils.Helpers - null
+14:32:10.313 [ApplicationImpl pooled thread 241] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:34:46.322 [ApplicationImpl pooled thread 241] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+14:34:46.323 [ApplicationImpl pooled thread 241] INFO  com.browserstack.utils.Helpers - null
+14:34:46.323 [ApplicationImpl pooled thread 241] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:39:43.903 [ApplicationImpl pooled thread 293] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+14:39:43.903 [ApplicationImpl pooled thread 293] INFO  com.browserstack.utils.Helpers - null
+14:39:43.904 [ApplicationImpl pooled thread 293] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:40:58.049 [ApplicationImpl pooled thread 295] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+14:40:58.049 [ApplicationImpl pooled thread 295] INFO  com.browserstack.utils.Helpers - null
+14:40:58.050 [ApplicationImpl pooled thread 295] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+15:00:01.247 [ApplicationImpl pooled thread 348] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+15:00:01.247 [ApplicationImpl pooled thread 348] INFO  com.browserstack.utils.Helpers - null
+15:00:01.249 [ApplicationImpl pooled thread 348] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+15:00:48.825 [ApplicationImpl pooled thread 346] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+15:00:48.825 [ApplicationImpl pooled thread 346] INFO  com.browserstack.utils.Helpers - null
+15:00:48.825 [ApplicationImpl pooled thread 346] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+15:04:33.879 [ApplicationImpl pooled thread 367] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+15:04:33.879 [ApplicationImpl pooled thread 367] INFO  com.browserstack.utils.Helpers - null
+15:04:33.879 [ApplicationImpl pooled thread 367] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+15:06:31.935 [ApplicationImpl pooled thread 376] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+15:06:31.935 [ApplicationImpl pooled thread 376] INFO  com.browserstack.utils.Helpers - null
+15:06:31.935 [ApplicationImpl pooled thread 376] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+15:11:16.335 [ApplicationImpl pooled thread 397] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+15:11:16.335 [ApplicationImpl pooled thread 397] INFO  com.browserstack.utils.Helpers - null
+15:11:16.337 [ApplicationImpl pooled thread 397] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+15:14:25.838 [ApplicationImpl pooled thread 402] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+15:14:25.838 [ApplicationImpl pooled thread 402] INFO  com.browserstack.utils.Helpers - null
+15:14:25.839 [ApplicationImpl pooled thread 402] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+15:17:18.798 [ApplicationImpl pooled thread 408] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+15:17:18.798 [ApplicationImpl pooled thread 408] INFO  com.browserstack.utils.Helpers - null
+15:17:18.799 [ApplicationImpl pooled thread 408] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+15:19:18.620 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+15:19:18.630 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+15:19:43.507 [ApplicationImpl pooled thread 16] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+15:19:43.507 [ApplicationImpl pooled thread 16] INFO  com.browserstack.utils.Helpers - null
+15:19:43.508 [ApplicationImpl pooled thread 16] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+15:26:10.935 [ApplicationImpl pooled thread 27] INFO  c.b.l.BrowserStackRunExtension - maven
+15:26:10.935 [ApplicationImpl pooled thread 27] INFO  com.browserstack.utils.Helpers - null
+15:26:22.872 [ApplicationImpl pooled thread 27] INFO  c.b.l.BrowserStackRunExtension - maven
+15:26:22.872 [ApplicationImpl pooled thread 27] INFO  com.browserstack.utils.Helpers - null
+15:27:01.245 [ApplicationImpl pooled thread 38] INFO  c.b.l.BrowserStackRunExtension - maven
+15:27:01.245 [ApplicationImpl pooled thread 38] INFO  com.browserstack.utils.Helpers - null
+15:27:15.496 [ApplicationImpl pooled thread 27] INFO  c.b.l.BrowserStackRunExtension - maven
+15:27:15.497 [ApplicationImpl pooled thread 27] INFO  com.browserstack.utils.Helpers - null
+15:48:55.546 [ApplicationImpl pooled thread 38] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+15:48:55.547 [ApplicationImpl pooled thread 38] INFO  com.browserstack.utils.Helpers - null
+15:48:55.548 [ApplicationImpl pooled thread 38] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+16:06:28.280 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+16:06:28.286 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+16:08:35.668 [ApplicationImpl pooled thread 60] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+16:08:35.668 [ApplicationImpl pooled thread 60] INFO  com.browserstack.utils.Helpers - null
+16:08:35.670 [ApplicationImpl pooled thread 60] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+16:08:51.096 [ApplicationImpl pooled thread 67] INFO  c.b.l.BrowserStackRunExtension - testng
+16:08:51.096 [ApplicationImpl pooled thread 67] INFO  com.browserstack.utils.Helpers - null
+16:08:51.096 [ApplicationImpl pooled thread 67] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+16:10:59.978 [ApplicationImpl pooled thread 79] INFO  c.b.l.BrowserStackRunExtension - testng
+16:10:59.978 [ApplicationImpl pooled thread 79] INFO  com.browserstack.utils.Helpers - null
+16:10:59.980 [ApplicationImpl pooled thread 79] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+16:21:49.028 [ApplicationImpl pooled thread 118] INFO  c.b.l.BrowserStackRunExtension - testng
+16:21:49.029 [ApplicationImpl pooled thread 118] INFO  com.browserstack.utils.Helpers - null
+16:21:49.033 [ApplicationImpl pooled thread 118] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:21:49.033 [ApplicationImpl pooled thread 118] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:21:49.033 [ApplicationImpl pooled thread 118] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+16:22:47.186 [ApplicationImpl pooled thread 111] INFO  c.b.l.BrowserStackRunExtension - testng
+16:22:47.186 [ApplicationImpl pooled thread 111] INFO  com.browserstack.utils.Helpers - null
+16:22:47.189 [ApplicationImpl pooled thread 111] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:22:47.189 [ApplicationImpl pooled thread 111] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:22:47.189 [ApplicationImpl pooled thread 111] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+16:28:07.660 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+16:28:07.661 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:28:07.661 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+16:28:07.667 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+16:28:07.667 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:28:07.667 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+16:31:14.366 [ApplicationImpl pooled thread 129] INFO  c.b.l.BrowserStackRunExtension - testng
+16:31:14.366 [ApplicationImpl pooled thread 129] INFO  com.browserstack.utils.Helpers - null
+16:31:14.369 [ApplicationImpl pooled thread 129] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:31:14.369 [ApplicationImpl pooled thread 129] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:31:14.369 [ApplicationImpl pooled thread 129] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+16:34:30.620 [ApplicationImpl pooled thread 136] INFO  c.b.l.BrowserStackRunExtension - testng
+16:34:30.620 [ApplicationImpl pooled thread 136] INFO  com.browserstack.utils.Helpers - null
+16:34:30.624 [ApplicationImpl pooled thread 136] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:34:30.624 [ApplicationImpl pooled thread 136] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:34:30.624 [ApplicationImpl pooled thread 136] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+16:40:05.925 [ApplicationImpl pooled thread 172] INFO  c.b.l.BrowserStackRunExtension - testng
+16:40:05.925 [ApplicationImpl pooled thread 172] INFO  com.browserstack.utils.Helpers - null
+16:40:05.927 [ApplicationImpl pooled thread 172] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:40:05.927 [ApplicationImpl pooled thread 172] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:40:05.927 [ApplicationImpl pooled thread 172] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+16:41:42.369 [ApplicationImpl pooled thread 152] INFO  c.b.l.BrowserStackRunExtension - testng
+16:41:42.369 [ApplicationImpl pooled thread 152] INFO  com.browserstack.utils.Helpers - null
+16:41:42.373 [ApplicationImpl pooled thread 152] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:41:42.373 [ApplicationImpl pooled thread 152] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:41:42.373 [ApplicationImpl pooled thread 152] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+16:42:08.420 [ApplicationImpl pooled thread 178] INFO  c.b.l.BrowserStackRunExtension - testng
+16:42:08.420 [ApplicationImpl pooled thread 178] INFO  com.browserstack.utils.Helpers - null
+16:42:08.422 [ApplicationImpl pooled thread 178] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:42:08.422 [ApplicationImpl pooled thread 178] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:42:08.422 [ApplicationImpl pooled thread 178] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+16:42:45.659 [ApplicationImpl pooled thread 178] INFO  c.b.l.BrowserStackRunExtension - testng
+16:42:45.660 [ApplicationImpl pooled thread 178] INFO  com.browserstack.utils.Helpers - null
+16:42:45.664 [ApplicationImpl pooled thread 178] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:42:45.664 [ApplicationImpl pooled thread 178] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:42:45.664 [ApplicationImpl pooled thread 178] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+16:45:00.328 [ApplicationImpl pooled thread 172] INFO  c.b.l.BrowserStackRunExtension - testng
+16:45:00.328 [ApplicationImpl pooled thread 172] INFO  com.browserstack.utils.Helpers - null
+16:45:00.332 [ApplicationImpl pooled thread 172] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:45:00.332 [ApplicationImpl pooled thread 172] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:45:00.332 [ApplicationImpl pooled thread 172] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+16:47:03.845 [ApplicationImpl pooled thread 185] INFO  c.b.l.BrowserStackRunExtension - testng
+16:47:03.845 [ApplicationImpl pooled thread 185] INFO  com.browserstack.utils.Helpers - null
+16:47:03.848 [ApplicationImpl pooled thread 185] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:47:03.848 [ApplicationImpl pooled thread 185] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:47:03.848 [ApplicationImpl pooled thread 185] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+16:50:09.054 [ApplicationImpl pooled thread 178] INFO  c.b.l.BrowserStackRunExtension - testng
+16:50:09.054 [ApplicationImpl pooled thread 178] INFO  com.browserstack.utils.Helpers - null
+16:50:09.055 [ApplicationImpl pooled thread 178] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:50:09.055 [ApplicationImpl pooled thread 178] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+16:50:09.055 [ApplicationImpl pooled thread 178] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+17:03:37.574 [ApplicationImpl pooled thread 188] INFO  c.b.l.BrowserStackRunExtension - testng
+17:03:37.575 [ApplicationImpl pooled thread 188] INFO  com.browserstack.utils.Helpers - null
+17:03:37.598 [ApplicationImpl pooled thread 188] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:03:37.598 [ApplicationImpl pooled thread 188] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:03:37.598 [ApplicationImpl pooled thread 188] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+17:12:20.442 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+17:12:20.442 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:12:20.442 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+17:12:20.446 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+17:12:20.446 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:12:20.446 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+17:14:00.271 [ApplicationImpl pooled thread 222] INFO  c.b.l.BrowserStackRunExtension - testng
+17:14:00.271 [ApplicationImpl pooled thread 222] INFO  com.browserstack.utils.Helpers - null
+17:14:00.276 [ApplicationImpl pooled thread 222] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:14:00.276 [ApplicationImpl pooled thread 222] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:14:00.276 [ApplicationImpl pooled thread 222] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+17:20:10.395 [ApplicationImpl pooled thread 231] INFO  c.b.l.BrowserStackRunExtension - testng
+17:20:10.395 [ApplicationImpl pooled thread 231] INFO  com.browserstack.utils.Helpers - null
+17:20:10.400 [ApplicationImpl pooled thread 231] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:20:10.400 [ApplicationImpl pooled thread 231] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:20:10.400 [ApplicationImpl pooled thread 231] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+17:25:28.491 [ApplicationImpl pooled thread 229] INFO  c.b.l.BrowserStackRunExtension - testng
+17:25:28.491 [ApplicationImpl pooled thread 229] INFO  com.browserstack.utils.Helpers - null
+17:25:28.494 [ApplicationImpl pooled thread 229] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:25:28.494 [ApplicationImpl pooled thread 229] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:25:28.494 [ApplicationImpl pooled thread 229] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+17:28:13.920 [ApplicationImpl pooled thread 236] INFO  c.b.l.BrowserStackRunExtension - testng
+17:28:13.920 [ApplicationImpl pooled thread 236] INFO  com.browserstack.utils.Helpers - null
+17:28:13.921 [ApplicationImpl pooled thread 236] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:28:13.921 [ApplicationImpl pooled thread 236] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:28:13.921 [ApplicationImpl pooled thread 236] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+17:30:12.996 [ApplicationImpl pooled thread 237] INFO  c.b.l.BrowserStackRunExtension - testng
+17:30:12.997 [ApplicationImpl pooled thread 237] INFO  com.browserstack.utils.Helpers - null
+17:30:12.999 [ApplicationImpl pooled thread 237] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:30:12.999 [ApplicationImpl pooled thread 237] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:30:12.999 [ApplicationImpl pooled thread 237] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+17:35:04.655 [ApplicationImpl pooled thread 246] INFO  c.b.l.BrowserStackRunExtension - testng
+17:35:04.655 [ApplicationImpl pooled thread 246] INFO  com.browserstack.utils.Helpers - null
+17:35:04.659 [ApplicationImpl pooled thread 246] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:35:04.659 [ApplicationImpl pooled thread 246] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:35:04.659 [ApplicationImpl pooled thread 246] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+17:36:15.445 [ApplicationImpl pooled thread 261] INFO  c.b.l.BrowserStackRunExtension - testng
+17:36:15.445 [ApplicationImpl pooled thread 261] INFO  com.browserstack.utils.Helpers - null
+17:36:15.447 [ApplicationImpl pooled thread 261] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:36:15.447 [ApplicationImpl pooled thread 261] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:36:15.447 [ApplicationImpl pooled thread 261] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+17:39:24.168 [ApplicationImpl pooled thread 246] INFO  c.b.l.BrowserStackRunExtension - testng
+17:39:24.168 [ApplicationImpl pooled thread 246] INFO  com.browserstack.utils.Helpers - null
+17:39:24.173 [ApplicationImpl pooled thread 246] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:39:24.173 [ApplicationImpl pooled thread 246] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:39:24.173 [ApplicationImpl pooled thread 246] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+17:45:02.739 [ApplicationImpl pooled thread 266] INFO  c.b.l.BrowserStackRunExtension - testng
+17:45:02.739 [ApplicationImpl pooled thread 266] INFO  com.browserstack.utils.Helpers - null
+17:45:02.742 [ApplicationImpl pooled thread 266] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:45:02.742 [ApplicationImpl pooled thread 266] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:45:02.742 [ApplicationImpl pooled thread 266] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+17:46:06.946 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+17:46:06.947 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:46:06.947 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+17:46:06.950 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+17:46:06.951 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:46:06.951 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+17:46:10.835 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+17:46:10.835 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:46:10.835 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+17:46:10.839 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+17:46:10.840 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:46:10.840 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - null
+17:46:24.450 [AWT-EventQueue-0] INFO  c.b.launchers.LaunchMavenCommand - Integrate source: java:appium-intellij:v1.1.4
+17:46:24.451 [AWT-EventQueue-0] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+17:46:24.470 [ApplicationImpl pooled thread 264] INFO  c.b.l.BrowserStackRunExtension - maven
+17:46:24.470 [ApplicationImpl pooled thread 264] INFO  com.browserstack.utils.Helpers - null
+17:46:56.880 [java.exe] INFO  c.b.launchers.LaunchMavenCommand - Completed maven archetype command
+17:47:01.904 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+17:47:01.904 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:47:01.904 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+17:47:01.909 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+17:47:01.910 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:47:01.910 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+17:47:06.528 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+17:47:06.529 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:47:06.529 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+17:47:06.532 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+17:47:06.534 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:47:06.534 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+17:47:10.041 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+17:47:10.042 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:47:10.042 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+17:47:10.046 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+17:47:10.046 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:47:10.046 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+17:48:29.813 [ApplicationImpl pooled thread 296] INFO  c.b.l.BrowserStackRunExtension - testng
+17:48:29.813 [ApplicationImpl pooled thread 296] INFO  com.browserstack.utils.Helpers - true
+17:48:29.814 [ApplicationImpl pooled thread 296] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:48:29.814 [ApplicationImpl pooled thread 296] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:48:29.814 [ApplicationImpl pooled thread 296] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+17:51:23.890 [ApplicationImpl pooled thread 305] INFO  c.b.l.BrowserStackRunExtension - testng
+17:51:23.890 [ApplicationImpl pooled thread 305] INFO  com.browserstack.utils.Helpers - true
+17:51:23.891 [ApplicationImpl pooled thread 305] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:51:23.891 [ApplicationImpl pooled thread 305] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:51:23.891 [ApplicationImpl pooled thread 305] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+17:53:58.466 [ApplicationImpl pooled thread 308] INFO  c.b.l.BrowserStackRunExtension - testng
+17:53:58.466 [ApplicationImpl pooled thread 308] INFO  com.browserstack.utils.Helpers - true
+17:53:58.467 [ApplicationImpl pooled thread 308] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:53:58.467 [ApplicationImpl pooled thread 308] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:53:58.467 [ApplicationImpl pooled thread 308] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+17:57:18.428 [ApplicationImpl pooled thread 307] INFO  c.b.l.BrowserStackRunExtension - testng
+17:57:18.428 [ApplicationImpl pooled thread 307] INFO  com.browserstack.utils.Helpers - true
+17:57:18.429 [ApplicationImpl pooled thread 307] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:57:18.429 [ApplicationImpl pooled thread 307] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+17:57:18.429 [ApplicationImpl pooled thread 307] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+18:06:49.301 [ApplicationImpl pooled thread 327] INFO  c.b.l.BrowserStackRunExtension - testng
+18:06:49.301 [ApplicationImpl pooled thread 327] INFO  com.browserstack.utils.Helpers - true
+18:06:49.302 [ApplicationImpl pooled thread 327] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:06:49.302 [ApplicationImpl pooled thread 327] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:06:49.302 [ApplicationImpl pooled thread 327] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+18:14:37.819 [ApplicationImpl pooled thread 344] INFO  c.b.l.BrowserStackRunExtension - testng
+18:14:37.819 [ApplicationImpl pooled thread 344] INFO  com.browserstack.utils.Helpers - true
+18:14:37.822 [ApplicationImpl pooled thread 344] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:14:37.822 [ApplicationImpl pooled thread 344] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:14:37.822 [ApplicationImpl pooled thread 344] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+18:17:42.491 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+18:17:42.492 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:17:42.492 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+18:17:42.496 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+18:17:42.496 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:17:42.496 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+18:18:11.314 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+18:18:11.314 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:18:11.314 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+18:18:11.317 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+18:18:11.318 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:18:11.318 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+18:18:43.612 [ApplicationImpl pooled thread 344] INFO  c.b.l.BrowserStackRunExtension - testng
+18:18:43.612 [ApplicationImpl pooled thread 344] INFO  com.browserstack.utils.Helpers - true
+18:18:43.613 [ApplicationImpl pooled thread 344] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:18:43.613 [ApplicationImpl pooled thread 344] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:18:43.613 [ApplicationImpl pooled thread 344] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+18:20:06.655 [ApplicationImpl pooled thread 342] INFO  c.b.l.BrowserStackRunExtension - testng
+18:20:06.655 [ApplicationImpl pooled thread 342] INFO  com.browserstack.utils.Helpers - true
+18:20:06.656 [ApplicationImpl pooled thread 342] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:20:06.656 [ApplicationImpl pooled thread 342] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:20:06.656 [ApplicationImpl pooled thread 342] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+18:21:06.262 [ApplicationImpl pooled thread 349] INFO  c.b.l.BrowserStackRunExtension - testng
+18:21:06.262 [ApplicationImpl pooled thread 349] INFO  com.browserstack.utils.Helpers - true
+18:21:06.264 [ApplicationImpl pooled thread 349] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:21:06.264 [ApplicationImpl pooled thread 349] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:21:06.264 [ApplicationImpl pooled thread 349] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+18:22:49.031 [ApplicationImpl pooled thread 353] INFO  c.b.l.BrowserStackRunExtension - testng
+18:22:49.031 [ApplicationImpl pooled thread 353] INFO  com.browserstack.utils.Helpers - true
+18:22:49.033 [ApplicationImpl pooled thread 353] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:22:49.033 [ApplicationImpl pooled thread 353] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+18:22:49.033 [ApplicationImpl pooled thread 353] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+22:15:13.296 [ApplicationImpl pooled thread 377] INFO  c.b.l.BrowserStackRunExtension - testng
+22:15:13.296 [ApplicationImpl pooled thread 377] INFO  com.browserstack.utils.Helpers - true
+22:15:13.297 [ApplicationImpl pooled thread 377] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:15:13.297 [ApplicationImpl pooled thread 377] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:15:13.297 [ApplicationImpl pooled thread 377] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+22:16:22.093 [ApplicationImpl pooled thread 382] INFO  c.b.l.BrowserStackRunExtension - testng
+22:16:22.094 [ApplicationImpl pooled thread 382] INFO  com.browserstack.utils.Helpers - true
+22:16:22.094 [ApplicationImpl pooled thread 382] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:16:22.094 [ApplicationImpl pooled thread 382] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:16:22.094 [ApplicationImpl pooled thread 382] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+22:17:11.880 [ApplicationImpl pooled thread 373] INFO  c.b.l.BrowserStackRunExtension - testng
+22:17:11.880 [ApplicationImpl pooled thread 373] INFO  com.browserstack.utils.Helpers - true
+22:17:11.881 [ApplicationImpl pooled thread 373] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:17:11.881 [ApplicationImpl pooled thread 373] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:17:11.881 [ApplicationImpl pooled thread 373] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+22:26:04.398 [ApplicationImpl pooled thread 7] INFO  c.b.l.BrowserStackRunExtension - testng
+22:26:04.399 [ApplicationImpl pooled thread 7] INFO  com.browserstack.utils.Helpers - true
+22:26:04.400 [ApplicationImpl pooled thread 7] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:26:04.400 [ApplicationImpl pooled thread 7] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:26:04.400 [ApplicationImpl pooled thread 7] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+22:38:27.729 [ApplicationImpl pooled thread 32] INFO  c.b.l.BrowserStackRunExtension - testng
+22:38:27.729 [ApplicationImpl pooled thread 32] INFO  com.browserstack.utils.Helpers - true
+22:38:27.730 [ApplicationImpl pooled thread 32] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:38:27.730 [ApplicationImpl pooled thread 32] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:38:27.730 [ApplicationImpl pooled thread 32] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+22:39:33.660 [ApplicationImpl pooled thread 31] INFO  c.b.l.BrowserStackRunExtension - testng
+22:39:33.660 [ApplicationImpl pooled thread 31] INFO  com.browserstack.utils.Helpers - true
+22:39:33.661 [ApplicationImpl pooled thread 31] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:39:33.661 [ApplicationImpl pooled thread 31] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:39:33.661 [ApplicationImpl pooled thread 31] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+22:42:33.593 [ApplicationImpl pooled thread 32] INFO  c.b.l.BrowserStackRunExtension - testng
+22:42:33.594 [ApplicationImpl pooled thread 32] INFO  com.browserstack.utils.Helpers - true
+22:42:33.610 [ApplicationImpl pooled thread 32] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:42:33.610 [ApplicationImpl pooled thread 32] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:42:33.611 [ApplicationImpl pooled thread 32] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+22:48:10.195 [ApplicationImpl pooled thread 69] INFO  c.b.l.BrowserStackRunExtension - testng
+22:48:10.196 [ApplicationImpl pooled thread 69] INFO  com.browserstack.utils.Helpers - true
+22:48:10.196 [ApplicationImpl pooled thread 69] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:48:10.196 [ApplicationImpl pooled thread 69] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+22:48:10.197 [ApplicationImpl pooled thread 69] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+09:39:23.413 [ApplicationImpl pooled thread 82] INFO  c.b.l.BrowserStackRunExtension - testng
+09:39:23.413 [ApplicationImpl pooled thread 82] INFO  com.browserstack.utils.Helpers - true
+09:39:23.414 [ApplicationImpl pooled thread 82] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+09:39:23.414 [ApplicationImpl pooled thread 82] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+09:39:23.414 [ApplicationImpl pooled thread 82] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+09:40:18.149 [ApplicationImpl pooled thread 69] INFO  c.b.l.BrowserStackRunExtension - testng
+09:40:18.149 [ApplicationImpl pooled thread 69] INFO  com.browserstack.utils.Helpers - true
+09:40:18.150 [ApplicationImpl pooled thread 69] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+09:40:18.150 [ApplicationImpl pooled thread 69] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.18.0/browserstack-java-sdk-1.18.0.jar
+09:40:18.150 [ApplicationImpl pooled thread 69] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+09:47:21.738 [ApplicationImpl pooled thread 141] INFO  c.b.l.BrowserStackRunExtension - testng
+09:47:21.738 [ApplicationImpl pooled thread 141] INFO  com.browserstack.utils.Helpers - true
+09:47:21.739 [ApplicationImpl pooled thread 141] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+09:47:21.739 [ApplicationImpl pooled thread 141] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+09:47:21.739 [ApplicationImpl pooled thread 141] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+09:50:56.490 [ApplicationImpl pooled thread 140] INFO  c.b.l.BrowserStackRunExtension - testng
+09:50:56.491 [ApplicationImpl pooled thread 140] INFO  com.browserstack.utils.Helpers - true
+09:50:56.491 [ApplicationImpl pooled thread 140] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+09:50:56.491 [ApplicationImpl pooled thread 140] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+09:50:56.491 [ApplicationImpl pooled thread 140] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+10:03:12.620 [ApplicationImpl pooled thread 164] INFO  c.b.l.BrowserStackRunExtension - testng
+10:03:12.622 [ApplicationImpl pooled thread 164] INFO  com.browserstack.utils.Helpers - true
+10:03:12.622 [ApplicationImpl pooled thread 164] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+10:03:12.622 [ApplicationImpl pooled thread 164] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+10:03:12.622 [ApplicationImpl pooled thread 164] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+10:05:53.136 [ApplicationImpl pooled thread 166] INFO  c.b.l.BrowserStackRunExtension - testng
+10:05:53.136 [ApplicationImpl pooled thread 166] INFO  com.browserstack.utils.Helpers - true
+10:05:53.139 [ApplicationImpl pooled thread 166] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+10:05:53.139 [ApplicationImpl pooled thread 166] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+10:05:53.139 [ApplicationImpl pooled thread 166] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+10:11:18.487 [ApplicationImpl pooled thread 170] INFO  c.b.l.BrowserStackRunExtension - testng
+10:11:18.488 [ApplicationImpl pooled thread 170] INFO  com.browserstack.utils.Helpers - true
+10:11:18.497 [ApplicationImpl pooled thread 170] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+10:11:18.497 [ApplicationImpl pooled thread 170] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+10:11:18.497 [ApplicationImpl pooled thread 170] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+10:12:23.338 [ApplicationImpl pooled thread 170] INFO  c.b.l.BrowserStackRunExtension - testng
+10:12:23.338 [ApplicationImpl pooled thread 170] INFO  com.browserstack.utils.Helpers - true
+10:12:23.338 [ApplicationImpl pooled thread 170] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+10:12:23.338 [ApplicationImpl pooled thread 170] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+10:12:23.338 [ApplicationImpl pooled thread 170] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+10:13:14.923 [ApplicationImpl pooled thread 170] INFO  c.b.l.BrowserStackRunExtension - testng
+10:13:14.923 [ApplicationImpl pooled thread 170] INFO  com.browserstack.utils.Helpers - true
+10:13:14.929 [ApplicationImpl pooled thread 170] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+10:13:14.929 [ApplicationImpl pooled thread 170] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+10:13:14.929 [ApplicationImpl pooled thread 170] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+10:35:46.412 [ApplicationImpl pooled thread 184] INFO  c.b.l.BrowserStackRunExtension - testng
+10:35:46.412 [ApplicationImpl pooled thread 184] INFO  com.browserstack.utils.Helpers - true
+10:35:46.413 [ApplicationImpl pooled thread 184] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+10:35:46.413 [ApplicationImpl pooled thread 184] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+10:35:46.413 [ApplicationImpl pooled thread 184] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+10:36:57.714 [ApplicationImpl pooled thread 173] INFO  c.b.l.BrowserStackRunExtension - testng
+10:36:57.715 [ApplicationImpl pooled thread 173] INFO  com.browserstack.utils.Helpers - true
+10:36:57.715 [ApplicationImpl pooled thread 173] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+10:36:57.715 [ApplicationImpl pooled thread 173] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+10:36:57.715 [ApplicationImpl pooled thread 173] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+11:28:43.973 [ApplicationImpl pooled thread 211] INFO  c.b.l.BrowserStackRunExtension - testng
+11:28:43.973 [ApplicationImpl pooled thread 211] INFO  com.browserstack.utils.Helpers - true
+11:28:43.982 [ApplicationImpl pooled thread 211] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:28:43.982 [ApplicationImpl pooled thread 211] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:28:43.982 [ApplicationImpl pooled thread 211] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+11:36:52.347 [ApplicationImpl pooled thread 229] INFO  c.b.l.BrowserStackRunExtension - testng
+11:36:52.348 [ApplicationImpl pooled thread 229] INFO  com.browserstack.utils.Helpers - true
+11:36:52.348 [ApplicationImpl pooled thread 229] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:36:52.348 [ApplicationImpl pooled thread 229] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:36:52.348 [ApplicationImpl pooled thread 229] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+11:40:13.291 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+11:40:13.291 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:40:13.291 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+11:40:13.296 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+11:40:13.296 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:40:13.296 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+11:40:14.686 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+11:40:14.687 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:40:14.687 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+11:40:14.691 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+11:40:14.691 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:40:14.691 [AWT-EventQueue-0] INFO  com.browserstack.utils.Helpers - true
+11:40:35.119 [ApplicationImpl pooled thread 231] INFO  c.b.l.BrowserStackRunExtension - maven
+11:40:35.119 [ApplicationImpl pooled thread 231] INFO  com.browserstack.utils.Helpers - true
+11:40:45.781 [ApplicationImpl pooled thread 231] INFO  c.b.l.BrowserStackRunExtension - maven
+11:40:45.781 [ApplicationImpl pooled thread 231] INFO  com.browserstack.utils.Helpers - true
+11:41:14.777 [ApplicationImpl pooled thread 212] INFO  c.b.l.BrowserStackRunExtension - testng
+11:41:14.777 [ApplicationImpl pooled thread 212] INFO  com.browserstack.utils.Helpers - true
+11:41:14.778 [ApplicationImpl pooled thread 212] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:41:14.778 [ApplicationImpl pooled thread 212] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:41:14.778 [ApplicationImpl pooled thread 212] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+11:42:07.140 [ApplicationImpl pooled thread 232] INFO  c.b.l.BrowserStackRunExtension - testng
+11:42:07.140 [ApplicationImpl pooled thread 232] INFO  com.browserstack.utils.Helpers - true
+11:42:07.148 [ApplicationImpl pooled thread 232] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:42:07.148 [ApplicationImpl pooled thread 232] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:42:07.148 [ApplicationImpl pooled thread 232] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+11:42:33.345 [ApplicationImpl pooled thread 232] INFO  c.b.l.BrowserStackRunExtension - testng
+11:42:33.345 [ApplicationImpl pooled thread 232] INFO  com.browserstack.utils.Helpers - true
+11:42:33.360 [ApplicationImpl pooled thread 232] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:42:33.360 [ApplicationImpl pooled thread 232] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:42:33.360 [ApplicationImpl pooled thread 232] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+11:42:57.111 [ApplicationImpl pooled thread 233] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+11:42:57.111 [ApplicationImpl pooled thread 233] INFO  com.browserstack.utils.Helpers - true
+11:42:57.128 [ApplicationImpl pooled thread 233] INFO  com.browserstack.utils.Helpers - C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:42:57.128 [ApplicationImpl pooled thread 233] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/evance.masemola/.m2/repository/com/browserstack/browserstack-java-sdk/1.19.0/browserstack-java-sdk-1.19.0.jar
+11:42:57.128 [ApplicationImpl pooled thread 233] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
