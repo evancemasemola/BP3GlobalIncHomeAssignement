@@ -12,12 +12,11 @@ public class productsSteps {
 
     public loginPage login;
     public productsPage products;
-    private WebDriver driver;
 
     @Before
     public void setup() {
 
-        driver = WebDriverManagerClass.getDriver();
+        WebDriver driver = WebDriverManagerClass.getDriver();
         login = new loginPage(driver);
         products = new productsPage(driver);
 
